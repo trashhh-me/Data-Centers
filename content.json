@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "title": "Where does the internet live? · The cloud was never weightless"
+  },
+
+  "ui": {
+    "narrateOn": "Audio narration (on)",
+    "narrateOff": "Audio narration (off)",
+    "close": "Close",
+    "explainer": "Explainer",
+    "scroll": "Scroll",
+    "chapterNav": "Chapters",
+    "stepNav": "Steps in this chapter"
+  },
+
+  "hero": {
+    "eyebrow": "00.0",
+    "title": "Where does the internet live?",
+    "sub": "A 3-minute walk from your phone to the buildings behind it.",
+    "cta": "Begin",
+    "words": ["search", "message", "watch", "shop", "stream", "ask"]
+  },
+
+  "chapters": [
+    {
+      "id": "00",
+      "name": "Opening",
+      "color": "#AF9ED7",
+      "visual": "journey",
+      "steps": [
+        {
+          "id": "00.1",
+          "eyebrow": "00.1 · Where does the internet live?",
+          "title": "You use it every day.",
+          "lead": "You tap. Your device turns that into information that can travel.",
+          "note": "Each tap becomes data: small packets of 1s and 0s.",
+          "state": "1"
+        },
+        {
+          "id": "00.2",
+          "eyebrow": "00.2",
+          "title": "It travels through the air, through cables, through fibre.",
+          "lead": "Fibre: strands of glass that carry data as pulses of light.",
+          "source": { "label": "How fibre carries light · more", "drawer": "fibre" },
+          "state": "2"
+        },
+        {
+          "id": "00.3",
+          "eyebrow": "00.3",
+          "title": "We call where it goes “the cloud.”",
+          "lead": "The cloud is a metaphor.",
+          "note": "It means computers you use over the internet, owned by someone else.",
+          "state": "3"
+        },
+        {
+          "id": "00.4",
+          "eyebrow": "00.4",
+          "title": "This is where the cloud becomes physical.",
+          "lead": "The internet feels invisible. Its infrastructure isn't.",
+          "quote": {
+            "term": "Cloud computing",
+            "text": "“A model for enabling … on-demand network access to a shared pool of configurable computing resources …”",
+            "source": { "label": "Mell & Grance, 2011", "drawer": "nist" }
+          },
+          "state": "4"
+        }
+      ]
+    },
+    {
+      "id": "01",
+      "name": "Inside",
+      "color": "#77C0F7",
+      "visual": "cutaway",
+      "steps": [
+        {
+          "id": "01.1",
+          "eyebrow": "01.1 · Inside a data center",
+          "title": "So, what's inside?",
+          "lead": "A building designed to keep computing equipment running.",
+          "note": "Four systems: compute, connect, power, cool.",
+          "source": { "label": "IEA, 2025 · more", "drawer": "compute" },
+          "lit": "",
+          "state": "none"
+        },
+        {
+          "id": "01.2",
+          "eyebrow": "01.2 · Compute",
+          "title": "The machines.",
+          "lead": "Servers process, store and move information. They use about 60% of a data center's electricity, on average.",
+          "note": "A server is a computer with no screen, built to run all day for many users.",
+          "hint": "Tap a rack to open one server.",
+          "source": { "label": "IEA, 2025 · more", "drawer": "compute" },
+          "lit": "compute",
+          "state": "compute"
+        },
+        {
+          "id": "01.3",
+          "eyebrow": "01.3 · Connect",
+          "title": "The machines have to talk.",
+          "lead": "Information comes in. Information goes out.",
+          "note": "Switches pass data between servers; fibre links the building to the rest of the internet.",
+          "lit": "connect",
+          "state": "connect"
+        },
+        {
+          "id": "01.4",
+          "eyebrow": "01.4 · Power",
+          "title": "The machines need power.",
+          "lead": "If the grid fails: UPS for seconds, generator for hours.",
+          "note": "UPS: batteries that take over instantly, until the diesel generators start.",
+          "control": { "type": "grid", "cut": "Cut the grid", "restore": "Restore the grid" },
+          "lit": "power backup",
+          "state": "power"
+        },
+        {
+          "id": "01.5",
+          "eyebrow": "01.5 · Cool",
+          "title": "The machines produce heat.",
+          "lead": "Almost all the electricity a server uses ends up as heat. Cool air goes in; warm air is pulled out.",
+          "lit": "cool",
+          "state": "cool"
+        },
+        {
+          "id": "01.6",
+          "eyebrow": "01.6",
+          "title": "Compute. Connect. Power. Cool.",
+          "lead": "Remove one, and the system changes.",
+          "control": {
+            "type": "layers",
+            "label": "Light one layer",
+            "layers": [
+              { "key": "compute", "label": "Compute", "color": "#A6D4F9" },
+              { "key": "connect", "label": "Connect", "color": "#CDC1EA" },
+              { "key": "power", "label": "Power", "color": "#FDE688" },
+              { "key": "cool", "label": "Cool", "color": "#FDC9B4" }
+            ],
+            "look": "Look closer: 3D model"
+          },
+          "lit": "compute connect power backup cool",
+          "state": "all"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Never sleeps",
+      "color": "#FDE688",
+      "visual": "clock",
+      "steps": [
+        {
+          "id": "02.1",
+          "eyebrow": "02.1 · It never sleeps",
+          "title": "{time}. The building is operating.",
+          "narration": "It never sleeps. The clock changes. The infrastructure keeps working.",
+          "lead": "06:00 · 12:00 · 18:00 · 24:00. The clock changes. The infrastructure keeps working.",
+          "hint": "Drag the dial to turn the clock.",
+          "control": { "type": "clock", "label": "Time of day" },
+          "tone": "dark",
+          "state": "dial"
+        },
+        {
+          "id": "02.2",
+          "eyebrow": "02.2",
+          "title": "The power keeps flowing.",
+          "lead": "About 485 TWh worldwide in 2025. Projected: about 950 TWh by 2030, roughly double.",
+          "note": "1 TWh = 1 billion kilowatt-hours.",
+          "source": { "label": "IEA, 2026 · more", "drawer": "iea2026" },
+          "state": "bars"
+        },
+        {
+          "id": "02.3",
+          "eyebrow": "02.3",
+          "title": "Small globally. Concentrated locally.",
+          "note": "A small share of the world's electricity, but each building draws its share from one local grid connection.",
+          "state": "local"
+        },
+        {
+          "id": "02.4",
+          "eyebrow": "02.4",
+          "title": "Electricity goes in. Heat has to come out.",
+          "lead": "Some of the heat leaves through water.",
+          "note": "Cooling towers shed heat by evaporating water. That water is used up, not returned.",
+          "state": "heat"
+        },
+        {
+          "id": "02.5",
+          "eyebrow": "02.5",
+          "title": "Google's data centers used about 29.5 billion litres of water in 2024.",
+          "note": "That is the total across its whole fleet, not one building.",
+          "source": { "label": "Google, 2025 · more", "drawer": "google" },
+          "state": "water",
+          "small": true
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "The bill",
+      "color": "#FDC9B4",
+      "visual": "bill",
+      "steps": [
+        {
+          "id": "03.1",
+          "eyebrow": "03.1 · The physical bill",
+          "title": "The digital world has a physical bill.",
+          "lead": "Energy · Water · Building · Materials",
+          "note": "Everything from the last two chapters, on one receipt. Tap a cost to open it.",
+          "state": "receipt"
+        },
+        {
+          "id": "03.2",
+          "eyebrow": "03.2",
+          "title": "Materials: copper, cobalt, tantalum.",
+          "lead": "Can we trace a server back to a mine? Not automatically.",
+          "note": "Copper carries power and data. Cobalt goes into batteries. Tantalum goes into capacitors on circuit boards.",
+          "control": { "type": "trace", "show": "Look closer: where did this come from?", "hide": "Join the links back up" },
+          "source": { "label": "USGS, 2026 · more", "drawer": "usgs" },
+          "state": "chain"
+        },
+        {
+          "id": "03.3",
+          "eyebrow": "03.3",
+          "title": "A server has a footprint before it is switched on.",
+          "note": "Mining, manufacturing and shipping all use energy. This is called the embodied footprint.",
+          "source": { "label": "Xiao et al., 2025 · more", "drawer": "embodied" },
+          "state": "embodied"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Nepal",
+      "color": "#91C8A9",
+      "visual": "map",
+      "steps": [
+        {
+          "id": "04.1",
+          "eyebrow": "04.1 · Data centers, Nepal",
+          "title": "Now, here. How many data centers does Nepal have?",
+          "lead": "Take a guess.",
+          "control": {
+            "type": "guess",
+            "options": ["1", "About 9", "More than 20"],
+            "after": "There is no single answer. It depends on what you count."
+          },
+          "state": "guess"
+        },
+        {
+          "id": "04.2",
+          "eyebrow": "04.2",
+          "title": "It depends on what you count.",
+          "note": "A company, a building and a backup site are all called a “data center”. Switch the rule and watch the number change.",
+          "control": { "type": "modes", "label": "Counting rule" },
+          "state": "count"
+        },
+        {
+          "id": "04.3",
+          "eyebrow": "04.3",
+          "title": "Most are in the Kathmandu Valley. Backups sit elsewhere.",
+          "note": "A disaster-recovery site keeps a copy of the data far away, in case the main building fails. Tap a marker for details.",
+          "source": { "label": "Sources · more", "drawer": "nepalsources" },
+          "state": "all",
+          "small": true
+        },
+        {
+          "id": "04.4",
+          "eyebrow": "04.4",
+          "title": "A new rule:",
+          "lead": "the Data Center and Cloud Service Directives, 2081.",
+          "note": "Providers must now register with the Department of Information Technology and meet security and privacy standards.",
+          "source": { "label": "Ncell, 2025 · more", "drawer": "directive" },
+          "state": "rule"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Afterlife",
+      "color": "#C87961",
+      "visual": "afterlife",
+      "steps": [
+        {
+          "id": "05.1",
+          "eyebrow": "05.1 · What does it leave behind?",
+          "title": "It doesn't end when it leaves the rack.",
+          "lead": "Reuse · Refurbish · Recycle · Discard",
+          "note": "Servers are usually replaced after a few years. Tap a path to see what happens.",
+          "control": { "type": "paths", "label": "Where does a server go?" },
+          "state": "paths"
+        },
+        {
+          "id": "05.2",
+          "eyebrow": "05.2",
+          "title": "62 million tonnes of e-waste worldwide in 2022.",
+          "lead": "22.3% formally recycled.",
+          "note": "“Formally recycled” means documented collection and recycling. The rest is not tracked.",
+          "source": { "label": "UNITAR & ITU, 2024 · more", "drawer": "ewaste" },
+          "state": "blocks",
+          "small": true
+        },
+        {
+          "id": "05.3",
+          "eyebrow": "05.3",
+          "title": "Nepal: about 41.5 million kg a year.",
+          "lead": "1.4 kg per person.",
+          "note": "All e-waste, not data centers only.",
+          "source": { "label": "UNITAR & ITU, 2024 · more", "drawer": "ewaste" },
+          "state": "person",
+          "small": true
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Questions",
+      "color": "#AF9ED7",
+      "visual": "wall",
+      "steps": [
+        {
+          "id": "06.1",
+          "eyebrow": "06.1 · What should we ask?",
+          "title": "What should we ask about a data center?",
+          "lead": "Tap a card to read its questions. Then pick the one that matters most to you.",
+          "state": "wall"
+        }
+      ]
+    }
+  ],
+
+  "drawers": {
+    "fibre": {
+      "title": "How does fibre carry light?",
+      "blocks": [
+        { "h": "Pulses of light", "p": "A transmitter switches a light on and off very fast. Each flash pattern stands for 1s and 0s." },
+        { "h": "Down a strand of glass", "p": "The light stays inside the strand and travels to the far end, where a receiver reads the pulses back as data." }
+      ]
+    },
+    "nist": {
+      "title": "Where does “the cloud” come from?",
+      "blocks": [
+        { "h": "A definition", "p": "“Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources …”" }
+      ],
+      "cite": "Mell, P. & Grance, T. (2011). The NIST Definition of Cloud Computing. NIST."
+    },
+    "compute": {
+      "title": "Compute",
+      "blocks": [
+        { "h": "What is a server?", "p": "A computer built to run all day and answer requests from many people at once. A data center holds thousands of them in tall racks." },
+        { "h": "Where does the rest go?", "p": "Mostly to cooling, plus storage, network equipment and power conversion." }
+      ],
+      "terms": [
+        { "term": "UPS", "def": "Uninterruptible power supply: a battery that keeps servers running during a power cut." },
+        { "term": "Generator", "def": "A diesel engine that provides power during longer outages." },
+        { "term": "CRAC", "def": "Computer room air conditioning: cools the servers so they do not overheat." },
+        { "term": "Bandwidth", "def": "How much data can move through a network connection at once." }
+      ],
+      "cite": "International Energy Agency (2025). Energy and AI. IEA, Paris."
+    },
+    "iea2026": {
+      "title": "Reading the numbers",
+      "blocks": [
+        { "h": "TWh", "p": "1 TWh is 1 billion kilowatt-hours. About 485 TWh were used by data centers worldwide in 2025." },
+        { "h": "Projection", "p": "About 950 TWh by 2030, roughly double. This is a projection, not a measurement." }
+      ],
+      "cite": "IEA, 2026."
+    },
+    "google": {
+      "title": "Water, whole fleet",
+      "blocks": [
+        { "h": "Why water?", "p": "Cooling towers shed heat by evaporating water. That water is used up, not returned." },
+        { "h": "What the figure covers", "p": "About 29.5 billion litres in 2024, across all of Google's data centers. It is a company total, not one building." }
+      ],
+      "cite": "Google, 2025."
+    },
+    "usgs": {
+      "title": "Materials",
+      "blocks": [
+        { "h": "Copper", "p": "Carries power and data." },
+        { "h": "Cobalt", "p": "Goes into batteries." },
+        { "h": "Tantalum", "p": "Goes into capacitors on circuit boards." },
+        { "h": "Tracing", "p": "A server passes through a mine, a material, a component and a factory. Each step is run by different companies, so the chain is not recorded automatically." }
+      ],
+      "cite": "USGS, 2026."
+    },
+    "embodied": {
+      "title": "Embodied footprint",
+      "blocks": [
+        { "h": "Before switch-on", "p": "Mining, manufacturing and shipping all use energy. That footprint is counted before the server runs a single task." }
+      ],
+      "cite": "Xiao et al., 2025."
+    },
+    "nepalsources": {
+      "title": "Where these numbers come from",
+      "blocks": [
+        { "h": "Registered providers", "p": "1, as of April 2025 (Ncell). Department of IT, via Kathmandu Post, 2025." },
+        { "h": "Facilities", "p": "9 listed in the Kathmandu Valley. Data Center Map, 2026." },
+        { "h": "Disaster-recovery sites", "p": "3 running (Hetauda 2019; Ncell Pokhara and Hetauda), 2 planned. Himalayan Times 2019; Kathmandu Post 2025; DCD 2024, 2025." },
+        { "h": "Planned", "p": "Nepal Telecom DR at Bhairahawa (letter of intent, Jan 2025, DCD). NEA DR at Butwal substation, Sunwal (DCD 2024)." }
+      ],
+      "cite": "Some of these figures come from public sources and have not yet been independently checked."
+    },
+    "directive": {
+      "title": "The directive",
+      "blocks": [
+        { "h": "Feb 2025 (Falgun 2081)", "p": "Directive issued: providers must register with the Department of Information Technology. Source: Kantipur." },
+        { "h": "Apr 2025", "p": "First provider enlisted: Ncell. Source: Kathmandu Post." }
+      ],
+      "cite": "Ncell, 2025."
+    },
+    "ewaste": {
+      "title": "E-waste, in numbers",
+      "blocks": [
+        { "h": "Worldwide, 2022", "p": "62 million tonnes. 22.3% was formally recycled." },
+        { "h": "Formally recycled", "p": "Documented collection and recycling. The rest is not tracked." },
+        { "h": "Nepal", "p": "About 41.5 million kg a year, or 1.4 kg per person. This is all e-waste, not data centers only." }
+      ],
+      "cite": "UNITAR & ITU, 2024."
+    }
+  },
+
+  "cutaway": {
+    "server": {
+      "title": "One server",
+      "parts": [
+        { "label": "CPU", "color": "#77C0F7" },
+        { "label": "Memory", "color": "#A6D4F9" },
+        { "label": "Storage", "color": "#DCEEFD" }
+      ]
+    },
+    "gridOff": "Grid · off",
+    "ups": "UPS · seconds",
+    "generator": "Generator · hours"
+  },
+
+  "clock": {
+    "ticks": ["00", "06", "12", "18"],
+    "bars": [
+      { "label": "2025", "value": "485 TWh", "sub": "worldwide, 2025" },
+      { "label": "2030 · projected", "value": "~950 TWh", "sub": "projected" }
+    ],
+    "chain": ["Electricity", "Computing", "Heat", "Cooling"],
+    "fleet": "whole fleet, not one building",
+    "water": "29.5 billion litres"
+  },
+
+  "bill": {
+    "title": "Physical bill",
+    "lines": ["Energy", "Water", "Building", "Materials"],
+    "cards": [
+      { "key": "energy", "title": "Energy", "fact": "About 485 TWh worldwide in 2025.", "src": "IEA, 2026", "color": "#FDE688", "drawer": "iea2026" },
+      { "key": "water", "title": "Water", "fact": "About 29.5 billion litres in 2024, across Google's whole fleet.", "src": "Google, 2025", "color": "#A6D4F9", "drawer": "google" },
+      { "key": "building", "title": "Building", "fact": "Designed to keep computing equipment running.", "src": "IEA, 2025", "color": "#E9E5DD", "drawer": "compute" },
+      { "key": "materials", "title": "Materials", "fact": "Copper, cobalt, tantalum.", "src": "Tap to look closer", "color": "#FDC9B4", "next": true }
+    ],
+    "chain": ["Mine", "Material", "Component", "Server", "Data center"],
+    "timeline": ["Made", "Shipped", "Switched on"],
+    "before": "before it is switched on"
+  },
+
+  "map": {
+    "markers": {
+      "ktm": { "label": "Kathmandu Valley", "kind": "solid", "x": 709, "y": 508, "lx": 732, "ly": 466,
+        "detail": "Government Integrated Data Centre · NEA Suchatar (Tier III, 2024) · Ncell Nakhu, Lalitpur (Tier III) · WorldLink Chandragiri near Matatirtha (3.5 MW, operating since Feb 2025)",
+        "src": "DCD 2024, 2025 · Kathmandu Post 2025" },
+      "hetauda": { "label": "Hetauda", "kind": "dr", "x": 674, "y": 556, "lx": 694, "ly": 558, "anchor": "start",
+        "detail": "Disaster-recovery site. GIDC Hetauda, running since 2019; Ncell also runs a DR site here.",
+        "src": "Himalayan Times 2019 · Kathmandu Post 2025" },
+      "pokhara": { "label": "Pokhara", "kind": "dr", "x": 547, "y": 437, "lx": 500, "ly": 380, "anchor": "start",
+        "detail": "Disaster-recovery site run by Ncell.",
+        "src": "Kathmandu Post 2025" },
+      "bhairahawa": { "label": "Bhairahawa", "kind": "planned", "x": 481, "y": 540, "lx": 456, "ly": 546, "anchor": "end",
+        "detail": "Planned. Nepal Telecom disaster-recovery site (letter of intent, Jan 2025).",
+        "src": "DCD 2025" },
+      "butwal": { "label": "Butwal (Sunwal)", "kind": "planned", "x": 481, "y": 500, "lx": 456, "ly": 466, "anchor": "end",
+        "detail": "Planned. NEA disaster-recovery site at the Butwal substation, Sunwal.",
+        "src": "DCD 2024" }
+    },
+    "modes": [
+      { "key": "providers", "label": "Registered providers", "count": "1", "text": "registered data center and cloud provider, as of April 2025 (Ncell)", "src": "Dept. of IT via Kathmandu Post, 2025", "show": ["ktm", "hetauda", "pokhara"] },
+      { "key": "facilities", "label": "Facilities", "count": "9", "text": "facilities listed in the Kathmandu Valley", "src": "Data Center Map, 2026", "show": ["ktm"] },
+      { "key": "dr", "label": "Disaster-recovery sites", "count": "3", "text": "disaster-recovery sites running in Hetauda and Pokhara, 2 more planned", "src": "Himalayan Times 2019 · Kathmandu Post 2025 · DCD 2024, 2025", "show": ["hetauda", "pokhara", "bhairahawa", "butwal"] }
+    ],
+    "legend": [
+      { "kind": "solid", "label": "Operating facility" },
+      { "kind": "dr", "label": "Disaster-recovery site" },
+      { "kind": "planned", "label": "Planned / announced" }
+    ],
+    "timeline": [
+      { "when": "Feb 2025 (Falgun 2081)", "what": "Directive issued: providers must register with the Department of Information Technology" },
+      { "when": "Apr 2025", "what": "First provider enlisted: Ncell" }
+    ]
+  },
+
+  "afterlife": {
+    "paths": [
+      { "key": "reuse", "label": "Reuse", "text": "Moved to another job, in the same building or somewhere else." },
+      { "key": "refurbish", "label": "Refurbish", "text": "Repaired, upgraded and sold on." },
+      { "key": "recycle", "label": "Recycle", "text": "Taken apart so metals and plastics can be recovered." },
+      { "key": "discard", "label": "Discard", "text": "Thrown away. Without a recycling system, it can end up in landfill or be burned." }
+    ],
+    "blocks": { "big": "62 million t", "sub": "e-waste worldwide, 2022", "recycled": "22.3% formally recycled", "rest": "the rest" },
+    "person": { "weight": "1.4 kg", "per": "per person" }
+  },
+
+  "wall": {
+    "pick": "This matters most to me",
+    "picked": "Your pick",
+    "tap": "Tap to see questions",
+    "cards": [
+      { "title": "Power", "color": "#FDE688", "qs": ["Where does its electricity come from?", "What runs it when the grid fails?"] },
+      { "title": "Water", "color": "#A6D4F9", "qs": ["How much water does its cooling use?", "Whose water source is it?"] },
+      { "title": "Materials", "color": "#FDC9B4", "qs": ["What is its hardware made from?", "Can those materials be traced?"] },
+      { "title": "Hardware", "color": "#E7B9A9", "qs": ["How long are its servers kept?", "What happens to them after?"] },
+      { "title": "Location", "color": "#91C8A9", "qs": ["Why was it built here?", "Who lives nearby?"] },
+      { "title": "Transparency", "color": "#CDC1EA", "qs": ["What does it report publicly?", "Who checks those numbers?"] }
+    ]
+  },
+
+  "end": {
+    "journey": ["Materials", "Cooling", "Power", "Servers", "Building", "Cloud", "Phone"],
+    "journeyLabel": "The journey in reverse: materials, cooling, power, servers, building, cloud, phone",
+    "line": "The cloud was never weightless.",
+    "again": "Back to the start"
+  },
+
+  "model3d": {
+    "chapterLabel": "01.7 · Optional",
+    "title": "Look closer.",
+    "sub": "Rotate the model and tap a part to see what it does.",
+    "back": "Back to story",
+    "fullscreen": "Fullscreen",
+    "exit": "Exit",
+    "loading": "Loading the model…",
+    "failed": "The 3D model could not be loaded. Check your connection and try again.",
+    "components": {
+      "server_rack": {
+        "label": "Server Rack",
+        "hex": "#77C0F7",
+        "desc": "A standard rack of servers that store and process data.",
+        "specs": [
+          { "k": "Units per rack", "v": "42U" },
+          { "k": "Power draw", "v": "5–10 kW" },
+          { "k": "Network speed", "v": "10–100 Gbps" }
+        ]
+      },
+      "cooling_unit": {
+        "label": "Cooling Unit (CRAC)",
+        "hex": "#91C8A9",
+        "desc": "Keeps the room at a safe temperature for the servers.",
+        "specs": [
+          { "k": "Capacity", "v": "20–60 kW" },
+          { "k": "Target temp", "v": "18–27°C" },
+          { "k": "Airflow", "v": "3,000–10,000 CFM" }
+        ]
+      },
+      "ups": {
+        "label": "UPS (Battery Backup)",
+        "hex": "#FDE688",
+        "desc": "A battery backup that kicks in the instant power cuts out.",
+        "specs": [
+          { "k": "Capacity", "v": "100–500 kVA" },
+          { "k": "Backup duration", "v": "10–15 minutes" }
+        ]
+      },
+      "generator": {
+        "label": "Diesel Generator",
+        "hex": "#C87961",
+        "desc": "A backup generator that keeps the lights on during longer outages.",
+        "specs": [
+          { "k": "Capacity", "v": "500 kW – 2 MW" },
+          { "k": "Start time", "v": "< 10 seconds" }
+        ]
+      },
+      "network_core": {
+        "label": "Network Core Switch",
+        "hex": "#AF9ED7",
+        "desc": "Connects every server rack together at high speed.",
+        "specs": [
+          { "k": "Throughput", "v": "100 Tbps+" },
+          { "k": "Latency", "v": "< 1 µs" }
+        ]
+      },
+      "pdu": {
+        "label": "Power Distribution Unit",
+        "hex": "#FFB347",
+        "desc": "Sends power from the UPS to each server rack.",
+        "specs": [
+          { "k": "Input voltage", "v": "208–415 V AC" },
+          { "k": "Outlets", "v": "24–48" }
+        ]
+      },
+      "fire_suppression": {
+        "label": "Fire Suppression",
+        "hex": "#FF8FAB",
+        "desc": "Puts out fires without damaging the equipment.",
+        "specs": [
+          { "k": "Agent", "v": "FM-200 / Novec 1230" },
+          { "k": "Response time", "v": "< 10 seconds" }
+        ]
+      },
+      "security_desk": {
+        "label": "Security & NOC Desk",
+        "hex": "#B0C4DE",
+        "desc": "Where staff watch over every system, all day and night.",
+        "specs": [
+          { "k": "Staffing", "v": "24/7/365" },
+          { "k": "Access control", "v": "Biometric + badge" }
+        ]
+      }
+    },
+    "layout": [
+      { "type": "server_rack", "positions": [[-6,-5],[-4,-5],[-2,-5],[0,-5],[-6,-3],[-4,-3],[-2,-3],[0,-3],[-6,1],[-4,1],[-2,1],[0,1],[-6,3],[-4,3],[-2,3],[0,3]] },
+      { "type": "cooling_unit", "positions": [[2,-5],[2,-3],[2,1],[2,3]] },
+      { "type": "ups", "positions": [[-9,-4],[-9,-2],[-9,0]] },
+      { "type": "generator", "positions": [[-9,5],[-6,5]] },
+      { "type": "network_core", "positions": [[4,-1]] },
+      { "type": "pdu", "positions": [[-1,-7],[2,-7],[5,-4],[5,2]] },
+      { "type": "fire_suppression", "positions": [[4,-6],[6,-6],[4,5],[6,5]] },
+      { "type": "security_desk", "positions": [[5,-1]] }
+    ]
+  },
+
+  "footer": "Built from the wireframes “The Cloud Was Never Weightless”."
+}
