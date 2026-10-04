@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<defs></defs>
+<rect x="0.00" y="0.00" width="1120.00" height="800.00" fill="rgb(46,42,59)"/>
+<svg data-dc-tpl="5" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="0.00" y="0.00"><g data-dc-tpl="6" transform="translate(285 218.5) scale(0.55)"><polygon data-dc-tpl="7" points="200,250 500,100 800,250 500,400" fill="#4A4558" stroke="#B9B2C6" stroke-width="4px" stroke-linejoin="round"/><polygon data-dc-tpl="8" points="200,250 500,400 500,560 200,410" fill="#413C50" stroke="#B9B2C6" stroke-width="4px" stroke-linejoin="round"/><polygon data-dc-tpl="9" points="500,400 800,250 800,410 500,560" fill="#383347" stroke="#B9B2C6" stroke-width="4px" stroke-linejoin="round"/><path data-dc-tpl="10" d="M230 365 L470 485 M230 325 L470 445 M530 505 L770 385 M530 465 L770 345" fill="none" stroke="#FDE688" stroke-width="9px" stroke-linecap="round"/></g></svg>
+<svg data-dc-tpl="13" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="0.00" y="0.00"><circle data-dc-tpl="14" cx="560" cy="400" r="330" fill="none" stroke="#4A4558" stroke-width="6px"/><path data-dc-tpl="15" d="M560 64 L560 84 M896 400 L876 400 M560 736 L560 716 M224 400 L244 400" fill="none" stroke="#B9B2C6" stroke-width="3px" stroke-linecap="round"/><circle data-dc-tpl="18" cx="560" cy="70" r="16" fill="#FDE688" stroke="#2E2A3B" stroke-width="3px"/></svg>
+<text x="546.17" y="116.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">00</text>
+<text x="842.09" y="408.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">06</text>
+<text x="550.14" y="700.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">12</text>
+<text x="253.53" y="408.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">18</text>
+</svg>

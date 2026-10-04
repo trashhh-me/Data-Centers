@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><clipPath id="c0"><rect x="48.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c1"><rect x="269.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c2"><rect x="491.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c3"><rect x="712.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c4"><rect x="934.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c5"><rect x="1155.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c6"><rect x="1377.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c7"><rect x="1598.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c8"><rect x="736.00" y="176.00" width="1120.00" height="800.00" rx="0"/></clipPath></defs>
+<rect x="0.00" y="0.00" width="1920.00" height="1080.00" fill="rgb(255,254,249)"/>
+<rect x="0.00" y="0.00" width="1920.00" height="72.00" fill="rgb(255,254,249)"/>
+<rect x="48.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c0)">
+<text x="48.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">00 Opening</text>
+</g>
+<rect x="269.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c1)">
+<text x="269.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">01 Inside</text>
+</g>
+<rect x="491.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c2)">
+<text x="491.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">02 Never sleeps</text>
+</g>
+<rect x="712.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c3)">
+<text x="712.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">03 The bill</text>
+</g>
+<rect x="934.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(145,200,169)"/>
+<g clip-path="url(#c4)">
+<text x="934.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">04 Nepal</text>
+</g>
+<rect x="1155.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c5)">
+<text x="1155.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">05 Afterlife</text>
+</g>
+<rect x="1377.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c6)">
+<text x="1377.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">06 Questions</text>
+</g>
+<rect x="1598.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c7)">
+<text x="1598.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">END</text>
+</g>
+<rect x="1828.50" y="14.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(122, 114, 136)" x="1839.00" y="25.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<text x="96.00" y="250.92" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" letter-spacing="1.44" xml:space="preserve">04.3</text>
+<text x="96.00" y="339.22" font-family="Poppins" font-size="64.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.28" xml:space="preserve">Most are in the</text>
+<text x="96.00" y="409.61" font-family="Poppins" font-size="64.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.28" xml:space="preserve">Kathmandu</text>
+<text x="96.00" y="480.00" font-family="Poppins" font-size="64.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.28" xml:space="preserve">Valley. Backups</text>
+<text x="96.00" y="550.39" font-family="Poppins" font-size="64.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.28" xml:space="preserve">sit elsewhere.</text>
+<text x="96.00" y="612.78" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">A disaster-recovery site keeps a copy of</text>
+<text x="96.00" y="647.58" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">the data far away, in case the main</text>
+<text x="96.00" y="682.37" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">building fails. Tap a marker for details.</text>
+<rect x="96.50" y="716.47" width="170.17" height="44.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<text x="115.00" y="744.87" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Sources · more</text>
+<rect x="736.00" y="176.00" width="1120.00" height="800.00" fill="rgb(255,254,249)"/>
+<g clip-path="url(#c8)">
+<svg data-dc-tpl="4" width="1120.00" height="800.00" viewBox="0 0 1120 800" aria-label="Outline map of Nepal" x="736.00" y="176.00"><polygon data-dc-tpl="5" points="67,350 90,266 133,189 194,134 255,134 328,175 426,245 487,300 572,293 609,369 682,383 719,425 792,473 853,467 926,487 1036,480 1060,550 1048,661 963,688 890,674 792,661 731,633 658,605 621,564 548,543 475,543 426,557 389,543 304,501 255,467 182,411 121,383" fill="#E3F1E9" stroke="#3A3548" stroke-width="2px" stroke-linejoin="round"/></svg>
+<svg data-dc-tpl="16" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><circle data-dc-tpl="17" cx="709" cy="508" r="14" fill="#3A3548"/></svg>
+<text x="1468.00" y="668.00" font-family="Poppins" font-size="20.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Kathmandu Valley</text>
+<svg data-dc-tpl="21" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><circle data-dc-tpl="22" cx="674" cy="556" r="6" fill="#3A3548"/><circle data-dc-tpl="23" cx="674" cy="556" r="14" fill="none" stroke="#3A3548" stroke-width="2.5px"/><circle data-dc-tpl="24" cx="547" cy="437" r="6" fill="#3A3548"/><circle data-dc-tpl="25" cx="547" cy="437" r="14" fill="none" stroke="#3A3548" stroke-width="2.5px"/></svg>
+<text x="1430.00" y="760.00" font-family="Poppins" font-size="20.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Hetauda</text>
+<text x="1244.00" y="586.00" font-family="Poppins" font-size="20.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Pokhara</text>
+<svg data-dc-tpl="30" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><circle data-dc-tpl="31" cx="481" cy="540" r="12" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/><circle data-dc-tpl="32" cx="481" cy="500" r="12" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/></svg>
+<text x="1066.00" y="746.00" font-family="Poppins" font-size="20.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Bhairahawa</text>
+<text x="1036.00" y="668.00" font-family="Poppins" font-size="20.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Butwal (Sunwal)</text>
+<rect x="1436.50" y="216.50" width="379.00" height="269.94" rx="15.50" fill="rgb(255,254,249)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="1461.00" y="261.10" font-family="Poppins" font-size="22.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Kathmandu Valley · tapped</text>
+<text x="1461.00" y="296.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Government Integrated Data Centre</text>
+<text x="1461.00" y="322.09" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">· NEA Suchatar (Tier III, 2024) · Ncell</text>
+<text x="1461.00" y="347.27" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Nakhu, Lalitpur (Tier III) · WorldLink</text>
+<text x="1461.00" y="372.46" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Chandragiri near Matatirtha (3.5</text>
+<text x="1461.00" y="397.65" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">MW, 2025)</text>
+<text x="1461.00" y="431.84" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">DCD 2024, 2025 · Kathmandu Post</text>
+<text x="1461.00" y="458.84" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">2025</text>
+<svg data-dc-tpl="52" width="28.00" height="28.00" viewBox="0 0 28 28" x="776.00" y="904.00"><circle data-dc-tpl="53" cx="14" cy="14" r="9" fill="#3A3548"/></svg>
+<text x="816.00" y="924.40" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Operating facility</text>
+<svg data-dc-tpl="55" width="28.00" height="28.00" viewBox="0 0 28 28" x="1002.83" y="904.00"><circle data-dc-tpl="56" cx="14" cy="14" r="5" fill="#3A3548"/><circle data-dc-tpl="57" cx="14" cy="14" r="11" fill="none" stroke="#3A3548" stroke-width="2px"/></svg>
+<text x="1042.83" y="924.40" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Disaster-recovery site</text>
+<svg data-dc-tpl="59" width="28.00" height="28.00" viewBox="0 0 28 28" x="1272.06" y="904.00"><circle data-dc-tpl="60" cx="14" cy="14" r="9" fill="#FFFEF9" stroke="#3A3548" stroke-width="2.5px"/></svg>
+<text x="1312.06" y="924.40" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Planned / announced</text>
+</g>
+<rect x="97.00" y="933.00" width="70.00" height="70.00" rx="35.00" fill="none" stroke="rgb(217,212,204)" stroke-width="2"/>
+<svg data-dc-tpl="6" width="28.00" height="28.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="118.00" y="954.00"><path data-dc-tpl="7" d="M19 12H5"/><path data-dc-tpl="8" d="M11 6l-6 6 6 6"/></svg>
+<text x="1593.89" y="972.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Next in 8 s</text>
+<svg data-dc-tpl="12" width="136.00" height="136.00" viewBox="0 0 136 136" x="1700.00" y="900.00"><circle data-dc-tpl="13" cx="68" cy="68" r="64" fill="none" stroke="#E9E5DD" stroke-width="4px"/><circle data-dc-tpl="14" cx="68" cy="68" r="64" fill="none" stroke="#3A3548" transform="rotate(-90 68 68)" stroke-width="4px" stroke-linecap="round" stroke-dasharray="141, 402"/></svg>
+<rect x="1712.00" y="912.00" width="112.00" height="112.00" rx="56.00" fill="rgb(145,200,169)"/>
+<svg data-dc-tpl="17" width="40.00" height="40.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="1748.00" y="948.00"><path data-dc-tpl="18" d="M5 12h14"/><path data-dc-tpl="19" d="M13 6l6 6-6 6"/></svg>
+</svg>

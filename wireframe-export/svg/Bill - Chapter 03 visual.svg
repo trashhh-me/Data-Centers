@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<defs></defs>
+<rect x="0.00" y="0.00" width="1120.00" height="800.00" fill="rgb(255,254,249)"/>
+<svg data-dc-tpl="6" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="0.00" y="0.00"><g data-dc-tpl="7" transform="translate(20 300) scale(0.4)"><polygon data-dc-tpl="8" points="200,250 500,100 800,250 500,400" fill="#FBF9F3" stroke="#3A3548" stroke-width="6px" stroke-linejoin="round"/><polygon data-dc-tpl="9" points="200,250 500,400 500,560 200,410" fill="#F3F0EA" stroke="#3A3548" stroke-width="6px" stroke-linejoin="round"/><polygon data-dc-tpl="10" points="500,400 800,250 800,410 500,560" fill="#E9E5DD" stroke="#3A3548" stroke-width="6px" stroke-linejoin="round"/></g><path data-dc-tpl="11" d="M360 420 L460 420" fill="none" stroke="#FDC9B4" stroke-width="6px" stroke-linecap="round" stroke-dasharray="2, 16"/><path data-dc-tpl="12" d="M480 80 H820 V700 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 l-17 20 l-17 -20 Z" fill="#FFFFFF" stroke="#3A3548" stroke-width="2px" stroke-linejoin="round"/><rect data-dc-tpl="13" x="480" y="80" width="340" height="14" fill="#FDC9B4"/></svg>
+<text x="546.89" y="146.20" font-family="Poppins" font-size="24.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="2.88" xml:space="preserve">PHYSICAL BILL</text>
+<line x1="512.00" y1="184.00" x2="788.00" y2="184.00" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="512.00" y="239.20" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Energy</text>
+<line x1="603.25" y1="238.00" x2="788.00" y2="238.00" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="2 4"/>
+<text x="512.00" y="302.20" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Water</text>
+<line x1="594.22" y1="301.00" x2="788.00" y2="301.00" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="2 4"/>
+<text x="512.00" y="365.20" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Building</text>
+<line x1="617.59" y1="364.00" x2="788.00" y2="364.00" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="2 4"/>
+<text x="512.00" y="428.20" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Materials</text>
+<line x1="632.03" y1="427.00" x2="788.00" y2="427.00" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="2 4"/>
+<line x1="512.00" y1="466.00" x2="788.00" y2="466.00" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="8 6"/>
+</svg>

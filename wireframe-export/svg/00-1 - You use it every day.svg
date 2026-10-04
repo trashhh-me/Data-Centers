@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><clipPath id="c0"><rect x="48.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c1"><rect x="269.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c2"><rect x="491.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c3"><rect x="712.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c4"><rect x="934.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c5"><rect x="1155.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c6"><rect x="1377.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c7"><rect x="1598.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c8"><rect x="736.00" y="176.00" width="1120.00" height="800.00" rx="0"/></clipPath></defs>
+<rect x="0.00" y="0.00" width="1920.00" height="1080.00" fill="rgb(255,254,249)"/>
+<rect x="0.00" y="0.00" width="1920.00" height="72.00" fill="rgb(255,254,249)"/>
+<rect x="48.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(175,158,215)"/>
+<g clip-path="url(#c0)">
+<text x="48.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">00 Opening</text>
+</g>
+<rect x="269.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c1)">
+<text x="269.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">01 Inside</text>
+</g>
+<rect x="491.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c2)">
+<text x="491.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">02 Never sleeps</text>
+</g>
+<rect x="712.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c3)">
+<text x="712.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">03 The bill</text>
+</g>
+<rect x="934.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c4)">
+<text x="934.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">04 Nepal</text>
+</g>
+<rect x="1155.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c5)">
+<text x="1155.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">05 Afterlife</text>
+</g>
+<rect x="1377.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c6)">
+<text x="1377.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">06 Questions</text>
+</g>
+<rect x="1598.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c7)">
+<text x="1598.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">END</text>
+</g>
+<rect x="1828.50" y="14.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(122, 114, 136)" x="1839.00" y="25.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<text x="96.00" y="310.67" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" letter-spacing="1.44" xml:space="preserve">00.1 · WHERE DOES THE INTERNET LIVE?</text>
+<text x="96.00" y="405.37" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.44" xml:space="preserve">You use it</text>
+<text x="96.00" y="483.12" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.44" xml:space="preserve">every day.</text>
+<text x="96.00" y="553.87" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">You tap. Your device turns that</text>
+<text x="96.00" y="597.05" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">into information that can travel.</text>
+<text x="96.00" y="656.84" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Each tap becomes data: small packets of</text>
+<text x="96.00" y="691.64" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">1s and 0s.</text>
+<rect x="736.00" y="176.00" width="1120.00" height="800.00" fill="rgb(255,254,249)"/>
+<g clip-path="url(#c8)">
+<svg data-dc-tpl="6" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><g data-dc-tpl="7" transform="translate(470 220)"><rect data-dc-tpl="8" x="0" y="0" width="180" height="360" rx="28" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/><rect data-dc-tpl="9" x="14" y="44" width="152" height="272" rx="6" fill="#F1EDF8"/><line data-dc-tpl="10" x1="70" y1="22" x2="110" y2="22" stroke="#3A3548" stroke-width="3px" stroke-linecap="round"/></g></svg>
+<text x="986.00" y="430.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">search</text>
+<text x="1456.00" y="410.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">message</text>
+<text x="966.00" y="630.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">watch</text>
+<text x="1476.00" y="640.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">shop</text>
+<text x="1036.00" y="840.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">stream</text>
+<text x="1456.00" y="840.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">ask</text>
+<svg data-dc-tpl="19" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><g data-dc-tpl="20" transform="translate(470 220)"><rect data-dc-tpl="21" x="0" y="0" width="180" height="360" rx="28" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/><rect data-dc-tpl="22" x="14" y="44" width="152" height="272" rx="6" fill="#F1EDF8"/><line data-dc-tpl="23" x1="70" y1="22" x2="110" y2="22" stroke="#3A3548" stroke-width="3px" stroke-linecap="round"/></g><circle data-dc-tpl="24" cx="560" cy="400" r="28" fill="none" stroke="#AF9ED7" stroke-width="3px"/><path data-dc-tpl="25" d="M560 236 Q 600 160 690 158" fill="none" stroke="#AF9ED7" stroke-width="3px" stroke-dasharray="4, 10" stroke-linecap="round"/><circle data-dc-tpl="26" cx="704" cy="156" r="34" fill="none" stroke="#AF9ED7" stroke-width="2px" opacity="0.5"/><circle data-dc-tpl="27" cx="704" cy="156" r="13" fill="#AF9ED7" stroke="#3A3548" stroke-width="2px"/></svg>
+</g>
+<rect x="97.00" y="933.00" width="70.00" height="70.00" rx="35.00" fill="none" stroke="rgb(217,212,204)" stroke-width="2"/>
+<svg data-dc-tpl="6" width="28.00" height="28.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="118.00" y="954.00"><path data-dc-tpl="7" d="M19 12H5"/><path data-dc-tpl="8" d="M11 6l-6 6 6 6"/></svg>
+<text x="1593.94" y="972.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Next in 5 s</text>
+<svg data-dc-tpl="12" width="136.00" height="136.00" viewBox="0 0 136 136" x="1700.00" y="900.00"><circle data-dc-tpl="13" cx="68" cy="68" r="64" fill="none" stroke="#E9E5DD" stroke-width="4px"/><circle data-dc-tpl="14" cx="68" cy="68" r="64" fill="none" stroke="#3A3548" transform="rotate(-90 68 68)" stroke-width="4px" stroke-linecap="round" stroke-dasharray="141, 402"/></svg>
+<rect x="1712.00" y="912.00" width="112.00" height="112.00" rx="56.00" fill="rgb(175,158,215)"/>
+<svg data-dc-tpl="17" width="40.00" height="40.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="1748.00" y="948.00"><path data-dc-tpl="18" d="M5 12h14"/><path data-dc-tpl="19" d="M13 6l6 6-6 6"/></svg>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><clipPath id="c0"><rect x="48.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c1"><rect x="269.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c2"><rect x="491.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c3"><rect x="712.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c4"><rect x="934.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c5"><rect x="1155.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c6"><rect x="1377.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c7"><rect x="1598.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c8"><rect x="736.00" y="176.00" width="1120.00" height="800.00" rx="0"/></clipPath></defs>
+<rect x="0.00" y="0.00" width="1920.00" height="1080.00" fill="rgb(255,254,249)"/>
+<rect x="0.00" y="0.00" width="1920.00" height="72.00" fill="rgb(255,254,249)"/>
+<rect x="48.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c0)">
+<text x="48.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">00 Opening</text>
+</g>
+<rect x="269.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c1)">
+<text x="269.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">01 Inside</text>
+</g>
+<rect x="491.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c2)">
+<text x="491.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">02 Never sleeps</text>
+</g>
+<rect x="712.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c3)">
+<text x="712.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">03 The bill</text>
+</g>
+<rect x="934.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c4)">
+<text x="934.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">04 Nepal</text>
+</g>
+<rect x="1155.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c5)">
+<text x="1155.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">05 Afterlife</text>
+</g>
+<rect x="1377.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(175,158,215)"/>
+<g clip-path="url(#c6)">
+<text x="1377.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">06 Questions</text>
+</g>
+<rect x="1598.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c7)">
+<text x="1598.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">END</text>
+</g>
+<rect x="1828.50" y="14.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(122, 114, 136)" x="1839.00" y="25.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<text x="96.00" y="326.98" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" letter-spacing="1.44" xml:space="preserve">06.1 · WHAT SHOULD WE ASK?</text>
+<text x="96.00" y="421.68" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.44" xml:space="preserve">What should</text>
+<text x="96.00" y="499.43" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.44" xml:space="preserve">we ask about</text>
+<text x="96.00" y="577.18" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-1.44" xml:space="preserve">a data center?</text>
+<text x="96.00" y="640.53" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Tap a card to read its questions. Then pick</text>
+<text x="96.00" y="675.33" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">the one that matters most to you.</text>
+<rect x="736.00" y="176.00" width="1120.00" height="800.00" fill="rgb(255,254,249)"/>
+<g clip-path="url(#c8)">
+<svg data-dc-tpl="4" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><g data-dc-tpl="5" transform="translate(335 252) scale(0.45)"><polygon data-dc-tpl="6" points="200,250 500,100 800,250 500,400" fill="#FBF9F3" stroke="#3A3548" stroke-width="5px" stroke-linejoin="round"/><polygon data-dc-tpl="7" points="200,250 500,400 500,560 200,410" fill="#F3F0EA" stroke="#3A3548" stroke-width="5px" stroke-linejoin="round"/><polygon data-dc-tpl="8" points="500,400 800,250 800,410 500,560" fill="#E9E5DD" stroke="#3A3548" stroke-width="5px" stroke-linejoin="round"/></g></svg>
+<rect x="777.00" y="217.00" width="298.00" height="198.00" rx="19.00" fill="rgb(255,254,249)" stroke="rgb(253,230,136)" stroke-width="2"/>
+<text x="802.00" y="268.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Power</text>
+<text x="802.00" y="312.71" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Where does its electricity</text>
+<text x="802.00" y="337.01" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">come from?</text>
+<text x="802.00" y="361.31" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">What runs it when the grid</text>
+<text x="802.00" y="385.60" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">fails?</text>
+<rect x="1516.50" y="216.50" width="299.00" height="199.00" rx="19.50" fill="rgb(166,212,249)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="1541.00" y="267.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Water</text>
+<text x="1541.00" y="385.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="776.50" y="476.50" width="299.00" height="199.00" rx="19.50" fill="rgb(253,201,180)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="801.00" y="527.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Materials</text>
+<text x="801.00" y="645.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="1516.50" y="476.50" width="299.00" height="199.00" rx="19.50" fill="rgb(231,185,169)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="1541.00" y="527.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Hardware</text>
+<text x="1541.00" y="645.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="776.50" y="736.50" width="299.00" height="199.00" rx="19.50" fill="rgb(145,200,169)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="801.00" y="787.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Location</text>
+<text x="801.00" y="905.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="1516.50" y="736.50" width="299.00" height="199.00" rx="19.50" fill="rgb(205,193,234)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="1541.00" y="787.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Transparency</text>
+<text x="1541.00" y="905.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+</g>
+<rect x="97.00" y="933.00" width="70.00" height="70.00" rx="35.00" fill="none" stroke="rgb(217,212,204)" stroke-width="2"/>
+<svg data-dc-tpl="6" width="28.00" height="28.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="118.00" y="954.00"><path data-dc-tpl="7" d="M19 12H5"/><path data-dc-tpl="8" d="M11 6l-6 6 6 6"/></svg>
+<text x="1463.42" y="972.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Waits for a tap · 15 s max</text>
+<svg data-dc-tpl="12" width="136.00" height="136.00" viewBox="0 0 136 136" x="1700.00" y="900.00"><circle data-dc-tpl="13" cx="68" cy="68" r="64" fill="none" stroke="#E9E5DD" stroke-width="4px"/><circle data-dc-tpl="14" cx="68" cy="68" r="64" fill="none" stroke="#3A3548" transform="rotate(-90 68 68)" stroke-width="4px" stroke-linecap="round" stroke-dasharray="141, 402"/></svg>
+<rect x="1712.00" y="912.00" width="112.00" height="112.00" rx="56.00" fill="rgb(175,158,215)"/>
+<svg data-dc-tpl="17" width="40.00" height="40.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="1748.00" y="948.00"><path data-dc-tpl="18" d="M5 12h14"/><path data-dc-tpl="19" d="M13 6l6 6-6 6"/></svg>
+</svg>

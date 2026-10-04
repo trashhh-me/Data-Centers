@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<defs></defs>
+<rect x="0.00" y="0.00" width="1120.00" height="800.00" fill="rgb(255,254,249)"/>
+<svg data-dc-tpl="4" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="0.00" y="0.00"><g data-dc-tpl="5" transform="translate(335 252) scale(0.45)"><polygon data-dc-tpl="6" points="200,250 500,100 800,250 500,400" fill="#FBF9F3" stroke="#3A3548" stroke-width="5px" stroke-linejoin="round"/><polygon data-dc-tpl="7" points="200,250 500,400 500,560 200,410" fill="#F3F0EA" stroke="#3A3548" stroke-width="5px" stroke-linejoin="round"/><polygon data-dc-tpl="8" points="500,400 800,250 800,410 500,560" fill="#E9E5DD" stroke="#3A3548" stroke-width="5px" stroke-linejoin="round"/></g></svg>
+<rect x="41.00" y="41.00" width="298.00" height="198.00" rx="19.00" fill="rgb(255,254,249)" stroke="rgb(253,230,136)" stroke-width="2"/>
+<text x="66.00" y="92.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Power</text>
+<text x="66.00" y="136.71" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Where does its electricity</text>
+<text x="66.00" y="161.01" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">come from?</text>
+<text x="66.00" y="185.31" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">What runs it when the grid</text>
+<text x="66.00" y="209.60" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">fails?</text>
+<rect x="780.50" y="40.50" width="299.00" height="199.00" rx="19.50" fill="rgb(166,212,249)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="805.00" y="91.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Water</text>
+<text x="805.00" y="209.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="40.50" y="300.50" width="299.00" height="199.00" rx="19.50" fill="rgb(253,201,180)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="65.00" y="351.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Materials</text>
+<text x="65.00" y="469.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="780.50" y="300.50" width="299.00" height="199.00" rx="19.50" fill="rgb(231,185,169)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="805.00" y="351.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Hardware</text>
+<text x="805.00" y="469.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="40.50" y="560.50" width="299.00" height="199.00" rx="19.50" fill="rgb(145,200,169)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="65.00" y="611.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Location</text>
+<text x="65.00" y="729.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+<rect x="780.50" y="560.50" width="299.00" height="199.00" rx="19.50" fill="rgb(205,193,234)" stroke="rgb(58,53,72)" stroke-width="1"/>
+<text x="805.00" y="611.30" font-family="Poppins" font-size="26.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Transparency</text>
+<text x="805.00" y="729.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">Tap to see questions</text>
+</svg>

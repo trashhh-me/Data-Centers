@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<defs><clipPath id="c0"><rect x="10.00" y="94.00" width="370.00" height="264.00" rx="0"/></clipPath><clipPath id="c1"><rect x="10.00" y="94.00" width="369.60" height="264.00" rx="0"/></clipPath></defs>
+<rect x="0.00" y="0.00" width="390.00" height="844.00" fill="rgb(255,254,249)"/>
+<rect x="0.00" y="0.00" width="390.00" height="56.00" fill="rgb(255,254,249)"/>
+<rect x="16.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(175,158,215)"/>
+<rect x="53.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="90.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="127.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="164.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="201.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="238.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="275.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="330.50" y="6.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(122, 114, 136)" x="341.00" y="17.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<g clip-path="url(#c0)">
+<rect x="10.00" y="94.00" width="369.60" height="264.00" fill="rgb(255,254,249)"/>
+<g clip-path="url(#c1)">
+<svg data-dc-tpl="30" width="369.60" height="264.00" viewBox="0 0 1120 800" x="10.00" y="94.00"><g data-dc-tpl="31" transform="translate(60 220)"><rect data-dc-tpl="32" x="0" y="0" width="180" height="360" rx="28" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/><rect data-dc-tpl="33" x="14" y="44" width="152" height="272" rx="6" fill="#F1EDF8"/><line data-dc-tpl="34" x1="70" y1="22" x2="110" y2="22" stroke="#3A3548" stroke-width="3px" stroke-linecap="round"/></g><path data-dc-tpl="35" d="M256 400 q 20 -26 40 0 t 40 0 t 40 0 t 40 0" fill="none" stroke="#3A3548" stroke-width="3px" stroke-linecap="round"/><line data-dc-tpl="36" x1="416" y1="400" x2="620" y2="400" stroke="#3A3548" stroke-width="6px" stroke-linecap="round"/><line data-dc-tpl="37" x1="620" y1="400" x2="840" y2="400" stroke="#AF9ED7" stroke-width="12px" stroke-linecap="round"/><line data-dc-tpl="38" x1="620" y1="400" x2="840" y2="400" stroke="#3A3548" stroke-width="2px"/></svg>
+<text x="112.30" y="247.15" font-family="Poppins" font-size="7.26" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">air</text>
+<text x="171.04" y="247.15" font-family="Poppins" font-size="7.26" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">cable</text>
+<text x="241.00" y="247.15" font-family="Poppins" font-size="7.26" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">fibre</text>
+<svg data-dc-tpl="47" width="369.60" height="264.00" viewBox="0 0 1120 800" x="10.00" y="94.00"><g data-dc-tpl="48" transform="translate(962 392)"><path data-dc-tpl="49" d="M-120 40 A50 50 0 0 1 -100 -30 A70 70 0 0 1 20 -60 A60 60 0 0 1 120 -10 A50 50 0 0 1 110 40 Z" fill="#E9E2F6" stroke="#AF9ED7" stroke-width="3px"/></g></svg>
+</g>
+</g>
+<text x="24.00" y="423.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" letter-spacing="1.44" xml:space="preserve">00.3</text>
+<text x="24.00" y="471.60" font-family="Poppins" font-size="32.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-0.64" xml:space="preserve">We call where it goes</text>
+<text x="24.00" y="507.43" font-family="Poppins" font-size="32.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-0.64" xml:space="preserve">“the cloud.”</text>
+<text x="24.00" y="547.66" font-family="Poppins" font-size="20.00" font-weight="400" fill="rgb(58,53,72)" xml:space="preserve">The cloud is a metaphor.</text>
+<text x="24.00" y="585.56" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">It means computers you use over the</text>
+<text x="24.00" y="611.65" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">internet, owned by someone else.</text>
+<rect x="25.00" y="753.00" width="54.00" height="54.00" rx="27.00" fill="none" stroke="rgb(217,212,204)" stroke-width="2"/>
+<svg data-dc-tpl="16" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="41.00" y="769.00"><path data-dc-tpl="17" d="M19 12H5"/><path data-dc-tpl="18" d="M11 6l-6 6 6 6"/></svg>
+<text x="122.83" y="786.40" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">Swipe or scroll</text>
+<rect x="294.00" y="744.00" width="72.00" height="72.00" rx="36.00" fill="rgb(175,158,215)"/>
+<svg data-dc-tpl="21" width="28.00" height="28.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="316.00" y="766.00"><path data-dc-tpl="22" d="M5 12h14"/><path data-dc-tpl="23" d="M13 6l6 6-6 6"/></svg>
+</svg>

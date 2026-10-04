@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><clipPath id="c0"><rect x="48.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c1"><rect x="269.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c2"><rect x="491.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c3"><rect x="712.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c4"><rect x="934.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c5"><rect x="1155.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c6"><rect x="1377.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c7"><rect x="1598.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c8"><rect x="736.00" y="176.00" width="1120.00" height="800.00" rx="0"/></clipPath></defs>
+<rect x="0.00" y="0.00" width="1920.00" height="1080.00" fill="rgb(46,42,59)"/>
+<rect x="0.00" y="0.00" width="1920.00" height="72.00" fill="rgb(46,42,59)"/>
+<rect x="48.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c0)">
+<text x="48.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">00 Opening</text>
+</g>
+<rect x="269.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c1)">
+<text x="269.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">01 Inside</text>
+</g>
+<rect x="491.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(253,230,136)"/>
+<g clip-path="url(#c2)">
+<text x="491.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="700" fill="rgb(255,254,249)" xml:space="preserve">02 Never sleeps</text>
+</g>
+<rect x="712.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c3)">
+<text x="712.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">03 The bill</text>
+</g>
+<rect x="934.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c4)">
+<text x="934.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">04 Nepal</text>
+</g>
+<rect x="1155.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c5)">
+<text x="1155.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">05 Afterlife</text>
+</g>
+<rect x="1377.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c6)">
+<text x="1377.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">06 Questions</text>
+</g>
+<rect x="1598.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(74,69,88)"/>
+<g clip-path="url(#c7)">
+<text x="1598.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">END</text>
+</g>
+<rect x="1828.50" y="14.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(74,69,88)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(185, 178, 198)" x="1839.00" y="25.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<text x="96.00" y="267.59" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" letter-spacing="1.44" xml:space="preserve">02.1 · IT NEVER SLEEPS</text>
+<text x="96.00" y="362.29" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(255,254,249)" letter-spacing="-1.44" xml:space="preserve">00:00. The</text>
+<text x="96.00" y="440.04" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(255,254,249)" letter-spacing="-1.44" xml:space="preserve">building is</text>
+<text x="96.00" y="517.79" font-family="Poppins" font-size="72.00" font-weight="700" fill="rgb(255,254,249)" letter-spacing="-1.44" xml:space="preserve">operating.</text>
+<text x="96.00" y="588.54" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(255,254,249)" xml:space="preserve">06:00 · 12:00 · 18:00 · 24:00. The</text>
+<text x="96.00" y="631.73" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(255,254,249)" xml:space="preserve">clock changes. The</text>
+<text x="96.00" y="674.91" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(255,254,249)" xml:space="preserve">infrastructure keeps working.</text>
+<text x="96.00" y="734.70" font-family="Poppins" font-size="24.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">Swipe to turn the clock.</text>
+<rect x="736.00" y="176.00" width="1120.00" height="800.00" fill="rgb(46,42,59)"/>
+<g clip-path="url(#c8)">
+<svg data-dc-tpl="5" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><g data-dc-tpl="6" transform="translate(285 218.5) scale(0.55)"><polygon data-dc-tpl="7" points="200,250 500,100 800,250 500,400" fill="#4A4558" stroke="#B9B2C6" stroke-width="4px" stroke-linejoin="round"/><polygon data-dc-tpl="8" points="200,250 500,400 500,560 200,410" fill="#413C50" stroke="#B9B2C6" stroke-width="4px" stroke-linejoin="round"/><polygon data-dc-tpl="9" points="500,400 800,250 800,410 500,560" fill="#383347" stroke="#B9B2C6" stroke-width="4px" stroke-linejoin="round"/><path data-dc-tpl="10" d="M230 365 L470 485 M230 325 L470 445 M530 505 L770 385 M530 465 L770 345" fill="none" stroke="#FDE688" stroke-width="9px" stroke-linecap="round"/></g></svg>
+<svg data-dc-tpl="13" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="736.00" y="176.00"><circle data-dc-tpl="14" cx="560" cy="400" r="330" fill="none" stroke="#4A4558" stroke-width="6px"/><path data-dc-tpl="15" d="M560 64 L560 84 M896 400 L876 400 M560 736 L560 716 M224 400 L244 400" fill="none" stroke="#B9B2C6" stroke-width="3px" stroke-linecap="round"/><path data-dc-tpl="17" d="M560 70 A330 330 0 1 1 230 400" fill="none" stroke="#FDE688" stroke-width="6px" stroke-linecap="round"/><circle data-dc-tpl="18" cx="230" cy="400" r="16" fill="#FDE688" stroke="#2E2A3B" stroke-width="3px"/></svg>
+<text x="1282.17" y="292.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">00</text>
+<text x="1578.09" y="584.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">06</text>
+<text x="1286.14" y="876.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">12</text>
+<text x="989.53" y="584.10" font-family="Poppins" font-size="22.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">18</text>
+</g>
+<rect x="97.00" y="933.00" width="70.00" height="70.00" rx="35.00" fill="none" stroke="rgb(74,69,88)" stroke-width="2"/>
+<svg data-dc-tpl="6" width="28.00" height="28.00" viewBox="0 0 24 24" fill="none" stroke="rgb(255, 254, 249)" x="118.00" y="954.00"><path data-dc-tpl="7" d="M19 12H5"/><path data-dc-tpl="8" d="M11 6l-6 6 6 6"/></svg>
+<text x="1593.81" y="972.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(185,178,198)" xml:space="preserve">Next in 6 s</text>
+<svg data-dc-tpl="12" width="136.00" height="136.00" viewBox="0 0 136 136" x="1700.00" y="900.00"><circle data-dc-tpl="13" cx="68" cy="68" r="64" fill="none" stroke="#4A4558" stroke-width="4px"/><circle data-dc-tpl="14" cx="68" cy="68" r="64" fill="none" stroke="#FFFEF9" transform="rotate(-90 68 68)" stroke-width="4px" stroke-linecap="round" stroke-dasharray="141, 402"/></svg>
+<rect x="1712.00" y="912.00" width="112.00" height="112.00" rx="56.00" fill="rgb(253,230,136)"/>
+<svg data-dc-tpl="17" width="40.00" height="40.00" viewBox="0 0 24 24" fill="none" stroke="rgb(58, 53, 72)" x="1748.00" y="948.00"><path data-dc-tpl="18" d="M5 12h14"/><path data-dc-tpl="19" d="M13 6l6 6-6 6"/></svg>
+</svg>

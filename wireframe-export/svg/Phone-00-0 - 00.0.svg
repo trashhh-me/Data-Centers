@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<defs></defs>
+<rect x="0.00" y="0.00" width="390.00" height="844.00" fill="rgb(255,254,249)"/>
+<rect x="0.00" y="0.00" width="390.00" height="56.00" fill="rgb(255,254,249)"/>
+<rect x="16.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(175,158,215)"/>
+<rect x="53.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="90.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="127.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="164.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="201.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="238.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="275.00" y="25.00" width="31.00" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<rect x="330.50" y="6.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(122, 114, 136)" x="341.00" y="17.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<rect x="25.00" y="65.00" width="340.00" height="422.00" rx="23.00" fill="rgb(246,243,236)" stroke="rgb(201,195,209)" stroke-width="2" stroke-dasharray="8 6"/>
+<rect x="136.00" y="135.50" width="118.00" height="238.00" rx="21.00" fill="rgb(255,254,249)" stroke="rgb(58,53,72)" stroke-width="2"/>
+<rect x="147.00" y="166.50" width="96.00" height="176.00" rx="6.00" fill="rgb(241,237,248)"/>
+<text x="162.95" y="260.90" font-family="Poppins" font-size="18.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">search</text>
+<text x="57.48" y="410.40" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">[Photo: hand holding a phone]</text>
+<text x="24.00" y="531.90" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" letter-spacing="1.44" xml:space="preserve">00.0</text>
+<text x="24.00" y="594.00" font-family="Poppins" font-size="40.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-0.80" xml:space="preserve">WHERE DOES THE</text>
+<text x="24.00" y="636.00" font-family="Poppins" font-size="40.00" font-weight="700" fill="rgb(58,53,72)" letter-spacing="-0.80" xml:space="preserve">INTERNET LIVE?</text>
+<rect x="24.00" y="663.00" width="342.00" height="64.00" rx="32.00" fill="rgb(175,158,215)"/>
+<text x="111.48" y="702.60" font-family="Poppins" font-size="22.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">Touch to begin</text>
+</svg>

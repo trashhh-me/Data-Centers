@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<defs></defs>
+<rect x="0.00" y="0.00" width="1120.00" height="800.00" fill="rgb(255,254,249)"/>
+<svg data-dc-tpl="6" width="1120.00" height="800.00" viewBox="0 0 1120 800" x="0.00" y="0.00"><g data-dc-tpl="7" transform="translate(470 220)"><rect data-dc-tpl="8" x="0" y="0" width="180" height="360" rx="28" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/><rect data-dc-tpl="9" x="14" y="44" width="152" height="272" rx="6" fill="#F1EDF8"/><line data-dc-tpl="10" x1="70" y1="22" x2="110" y2="22" stroke="#3A3548" stroke-width="3px" stroke-linecap="round"/></g></svg>
+<text x="250.00" y="254.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">search</text>
+<text x="720.00" y="234.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">message</text>
+<text x="230.00" y="454.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">watch</text>
+<text x="740.00" y="464.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">shop</text>
+<text x="300.00" y="664.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">stream</text>
+<text x="720.00" y="664.60" font-family="Poppins" font-size="32.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">ask</text>
+</svg>

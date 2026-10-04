@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><clipPath id="c0"><rect x="48.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c1"><rect x="269.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c2"><rect x="491.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c3"><rect x="712.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c4"><rect x="934.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c5"><rect x="1155.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c6"><rect x="1377.00" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath><clipPath id="c7"><rect x="1598.50" y="32.20" width="205.50" height="21.59" rx="0"/></clipPath></defs>
+<rect x="0.00" y="0.00" width="1920.00" height="1080.00" fill="rgb(255,254,249)"/>
+<rect x="0.00" y="0.00" width="1920.00" height="72.00" fill="rgb(255,254,249)"/>
+<rect x="48.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c0)">
+<text x="48.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">00 Opening</text>
+</g>
+<rect x="269.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c1)">
+<text x="269.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">01 Inside</text>
+</g>
+<rect x="491.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c2)">
+<text x="491.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">02 Never sleeps</text>
+</g>
+<rect x="712.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c3)">
+<text x="712.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">03 The bill</text>
+</g>
+<rect x="934.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c4)">
+<text x="934.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">04 Nepal</text>
+</g>
+<rect x="1155.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c5)">
+<text x="1155.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">05 Afterlife</text>
+</g>
+<rect x="1377.00" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(233,229,221)"/>
+<g clip-path="url(#c6)">
+<text x="1377.00" y="49.10" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">06 Questions</text>
+</g>
+<rect x="1598.50" y="18.20" width="205.50" height="6.00" rx="3.00" fill="rgb(175,158,215)"/>
+<g clip-path="url(#c7)">
+<text x="1598.50" y="49.10" font-family="Poppins" font-size="18.00" font-weight="700" fill="rgb(58,53,72)" xml:space="preserve">END</text>
+</g>
+<rect x="1828.50" y="14.50" width="43.00" height="43.00" rx="21.50" fill="none" stroke="rgb(217,212,204)" stroke-width="1"/>
+<svg data-dc-tpl="11" width="22.00" height="22.00" viewBox="0 0 24 24" fill="none" stroke="rgb(122, 114, 136)" x="1839.00" y="25.00"><path data-dc-tpl="12" d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect data-dc-tpl="13" x="3" y="14" width="4" height="6" rx="1.5"/><rect data-dc-tpl="14" x="17" y="14" width="4" height="6" rx="1.5"/></svg>
+<svg data-dc-tpl="6" width="1920.00" height="1008.00" viewBox="0 0 1920 1008" aria-label="The journey in reverse: materials, cooling, power, servers, building, cloud, phone" x="0.00" y="72.00"><path data-dc-tpl="7" d="M256 460 H310 M516 460 H570 M776 460 H830 M1036 460 H1090 M1296 460 H1350 M1556 460 H1610" fill="none" stroke="#C9C3D1" stroke-width="3px" stroke-linecap="round"/><polygon data-dc-tpl="8" points="322,460 308,452 308,468" fill="#C9C3D1"/><polygon data-dc-tpl="9" points="582,460 568,452 568,468" fill="#C9C3D1"/><polygon data-dc-tpl="10" points="842,460 828,452 828,468" fill="#C9C3D1"/><polygon data-dc-tpl="11" points="1102,460 1088,452 1088,468" fill="#C9C3D1"/><polygon data-dc-tpl="12" points="1362,460 1348,452 1348,468" fill="#C9C3D1"/><polygon data-dc-tpl="13" points="1622,460 1608,452 1608,468" fill="#C9C3D1"/><circle data-dc-tpl="14" cx="170" cy="460" r="80" fill="#FEE9E0" stroke="#3A3548" stroke-width="2px" opacity="0.6"/><path data-dc-tpl="15" d="M130 495 L160 425 L182 455 L196 437 L215 495 Z" fill="none" stroke="#3A3548" stroke-width="3px" stroke-linejoin="round" opacity="0.6"/><circle data-dc-tpl="16" cx="430" cy="460" r="80" fill="#DCEEFD" stroke="#3A3548" stroke-width="2px" opacity="0.7"/><path data-dc-tpl="17" d="M430 420 V500 M395.4 440 L464.6 480 M395.4 480 L464.6 440" fill="none" stroke="#3A3548" stroke-width="3px" stroke-linecap="round" opacity="0.7"/><circle data-dc-tpl="18" cx="690" cy="460" r="80" fill="#FEF5CF" stroke="#3A3548" stroke-width="2px" opacity="0.8"/><path data-dc-tpl="19" d="M698 415 L670 468 L695 468 L684 505 L716 450 L691 450 L702 415 Z" fill="none" stroke="#3A3548" stroke-width="3px" stroke-linejoin="round" opacity="0.8"/><circle data-dc-tpl="20" cx="950" cy="460" r="80" fill="#DCEEFD" stroke="#3A3548" stroke-width="2px" opacity="0.85"/><rect data-dc-tpl="21" x="928" y="420" width="44" height="80" rx="4" fill="none" stroke="#3A3548" stroke-width="3px" opacity="0.85"/><path data-dc-tpl="22" d="M936 440 H964 M936 460 H964 M936 480 H964" fill="none" stroke="#3A3548" stroke-width="3px" stroke-linecap="round" opacity="0.85"/><circle data-dc-tpl="23" cx="1210" cy="460" r="80" fill="#F3F0EA" stroke="#3A3548" stroke-width="2px" opacity="0.9"/><path data-dc-tpl="24" d="M1170 450 L1210 430 L1250 450 L1210 470 Z M1170 450 V480 L1210 500 L1250 480 V450 M1210 470 V500" fill="none" stroke="#3A3548" stroke-width="3px" stroke-linejoin="round" opacity="0.9"/><circle data-dc-tpl="25" cx="1470" cy="460" r="80" fill="#E9E2F6" stroke="#3A3548" stroke-width="2px" opacity="0.95"/><g data-dc-tpl="26" transform="translate(1470 470) scale(0.38)"><path data-dc-tpl="27" d="M-120 40 A50 50 0 0 1 -100 -30 A70 70 0 0 1 20 -60 A60 60 0 0 1 120 -10 A50 50 0 0 1 110 40 Z" fill="none" stroke="#3A3548" stroke-width="8px"/></g><circle data-dc-tpl="28" cx="1730" cy="460" r="100" fill="#AF9ED7" stroke="#3A3548" stroke-width="2.5px"/><rect data-dc-tpl="29" x="1700" y="400" width="60" height="120" rx="12" fill="#FFFEF9" stroke="#3A3548" stroke-width="3px"/></svg>
+<text x="96.00" y="1024.40" font-family="Poppins" font-size="18.00" font-weight="400" fill="rgb(122,114,136)" xml:space="preserve">E.1 · no on-screen text · plays automatically, about 8 s →</text>
+</svg>
