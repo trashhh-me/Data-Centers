@@ -58,19 +58,6 @@
       }, 1800);
     })();
 
-    /* ───────── header ───────── */
-    var nav = $('#chapterNav');
-    var segs = C.chapters.map(function (c) { return { id: c.id, label: c.id + ' ' + c.name, color: c.color, href: '#ch-' + c.id }; });
-    segs.push({ id: 'END', label: 'End', color: '#AF9ED7', href: '#end' });
-    segs.forEach(function (s) {
-      var a = document.createElement('a');
-      a.className = 'seg'; a.href = s.href; a.style.setProperty('--c', s.color); a.dataset.ch = s.id;
-      a.setAttribute('aria-label', 'Chapter ' + s.label);
-      a.innerHTML = '<i><b></b></i><span>' + esc(s.label) + '</span>';
-      nav.appendChild(a);
-      s.el = a; s.fill = $('b', a);
-    });
-
     /* ───────── steps ───────── */
     var chapters = [];
     C.chapters.forEach(function (cd) {
@@ -545,10 +532,8 @@
 
       chapters.forEach(function (ch, ci) {
         var r = ch.sec.getBoundingClientRect();
-        var prog = clamp((p - r.top) / r.height, 0, 1);
-        segs[ci].fill.style.width = (prog * 100) + '%';
         if (r.top <= p && r.bottom > p) {
-          current = segs[ci];
+          current = ch;
           var idx = 0;
           for (var i = 0; i < ch.stepEls.length; i++) {
             var sr = ch.stepEls[i].getBoundingClientRect();
@@ -558,12 +543,7 @@
           if (idx !== ch.active) activate(ch, idx);
         }
       });
-      // END segment spans both closing sections
       var e1 = endSec.getBoundingClientRect(), e2 = end2.getBoundingClientRect();
-      var eh = e2.bottom - e1.top, ep = clamp((p - e1.top) / eh, 0, 1);
-      segs[segs.length - 1].fill.style.width = (ep * 100) + '%';
-      if (e1.top <= p && e2.bottom > p) current = segs[segs.length - 1];
-      segs.forEach(function (s) { if (s === current) s.el.setAttribute('aria-current', 'true'); else s.el.removeAttribute('aria-current'); });
 
       // header follows whatever dark section sits under it
       var dark = false, y = bh / 2;

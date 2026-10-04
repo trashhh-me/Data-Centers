@@ -19,7 +19,7 @@
   --green: #91C8A9;
   --clay: #C87961;
 
-  --bar-h: 64px;
+  --bar-h: 0px;
   --u: 1;          /* label scale inside illustrations */
   --mu: 1;         /* smaller scale for the crowded diagrams (map, chain) */
   --w: 1;          /* outline scale inside illustrations */
@@ -37,7 +37,7 @@
 }
 
 @media (max-width: 900px) {
-  :root { --bar-h: 52px; --u: 1.65; --mu: 1.25; --w: 1.8; }
+  :root { --bar-h: 0px; --u: 1.65; --mu: 1.25; --w: 1.8; }
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -64,41 +64,16 @@ a { color: inherit; }
 .skip:focus { top: .6rem; }
 .nojs { padding: 6rem 2rem; text-align: center; }
 
-/* ── Header: chapter bar ── */
-.bar {
-  position: fixed; inset: 0 0 auto 0; height: var(--bar-h); z-index: 50;
-  display: flex; align-items: center; gap: 1.2rem;
-  padding: 0 clamp(.9rem, 2.5vw, 3rem);
-  background: var(--cream); color: var(--ink);
-  border-bottom: 1px solid var(--track);
-  transition: background .5s, color .5s, border-color .5s;
-}
-body[data-header="dark"] .bar { background: #2E2A3B; color: #FFFEF9; border-color: #4A4558; }
-.chapters { flex: 1; min-width: 0; display: flex; gap: clamp(6px, 1vw, 16px); }
-.seg { flex: 1; min-width: 0; min-height: 44px; display: flex; flex-direction: column; justify-content: center; gap: 7px; text-decoration: none; color: var(--muted); }
-body[data-header="dark"] .seg { color: #B9B2C6; }
-.seg i { display: block; height: 6px; border-radius: 3px; background: var(--track); overflow: hidden; }
-body[data-header="dark"] .seg i { background: #4A4558; }
-.seg b { display: block; height: 100%; width: 0; background: var(--c); border-radius: 3px; }
-.seg span { font-size: .78rem; line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.seg[aria-current="true"] { color: var(--ink); }
-body[data-header="dark"] .seg[aria-current="true"] { color: #FFFEF9; }
-.seg[aria-current="true"] span { font-weight: 700; }
-.seg:hover span { text-decoration: underline; text-underline-offset: 3px; }
+/* ── Narration button (floating) ── */
+.bar { position: fixed; top: 0; right: 0; height: 0; z-index: 50; }
 .narrate {
-  width: 44px; height: 44px; flex: none; display: grid; place-items: center;
-  border: 1.5px solid var(--line); border-radius: 50%; color: var(--muted);
+  position: fixed; top: 14px; right: 14px; width: 44px; height: 44px; display: grid; place-items: center;
+  border: 1.5px solid var(--line); border-radius: 50%; color: var(--muted); background: var(--cream);
   transition: background .2s, color .2s, border-color .2s;
 }
-body[data-header="dark"] .narrate { border-color: #4A4558; color: #B9B2C6; }
+body[data-header="dark"] .narrate { background: #2E2A3B; border-color: #4A4558; color: #B9B2C6; }
 .narrate:hover { color: var(--ink); border-color: var(--ink); }
-body[data-header="dark"] .narrate:hover { color: #FFFEF9; border-color: #FFFEF9; }
 .narrate[aria-pressed="true"] { background: var(--purple); border-color: var(--ink); color: var(--ink); }
-@media (max-width: 900px) {
-  .seg span { display: none; }
-  .seg[aria-current="true"] span { display: block; }
-  .seg[aria-current="true"] { flex: 2.4; }
-}
 
 /* ── Shared bits ── */
 .eyebrow { font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
